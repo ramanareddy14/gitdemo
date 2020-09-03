@@ -1,2 +1,3 @@
 file1 created
 addig second commit
+adding a third commit in master
